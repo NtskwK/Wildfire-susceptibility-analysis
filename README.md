@@ -18,4 +18,4 @@ AI Earth Engine 是 AI Earth地球科学云平台 开发者模式的客户端cli
 AI Earth 鉴权及初始化[文档](https://engine-aiearth.aliyun.com/docs/page/api?d=07f36f#heading-21:~:text=%E7%BC%96%E5%86%99%E4%BB%A3%E7%A0%81-,%E9%89%B4%E6%9D%83%E5%8F%8A%E5%88%9D%E5%A7%8B%E5%8C%96,-%E6%82%A8%E5%8F%AF%E4%BB%A5%E5%9F%BA%E4%BA%8E)
 
 # 说明
-有关本项目的具体介绍请移步我的[博客](https://blog.natsuu.top/2024/03/30/%EF%BC%88%E9%81%A5%E6%84%9F%EF%BC%89%E5%88%A9%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91AI%20Earth%E8%BF%9B%E8%A1%8C%E9%87%8E%E7%81%AB%E9%A3%8E%E9%99%A9%E6%80%A7%E5%88%86%E6%9E%90/)
+有关本项目的具体介绍请移步我的[博客](https://blog.natsuu.top/2024/03/30/%E5%88%A9%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91AI%20Earth%E8%BF%9B%E8%A1%8C%E9%87%8E%E7%81%AB%E9%A3%8E%E9%99%A9%E6%80%A7%E5%88%86%E6%9E%90/)
